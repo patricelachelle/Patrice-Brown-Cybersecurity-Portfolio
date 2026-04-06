@@ -80,7 +80,7 @@ export const Contact = () => {
             </p>
             <a
               href="mailto:patrice.lachelle.brown@gmail.com"
-              className="inline-block px-10 py-4 bg-cyber-green text-black font-bold uppercase tracking-widest text-sm hover:bg-cyber-blue transition-all cyber-border"
+              className="inline-block px-10 py-4 bg-cyber-green text-white font-bold uppercase tracking-widest text-sm hover:bg-cyber-blue transition-all cyber-border"
             >
               Send Message
             </a>

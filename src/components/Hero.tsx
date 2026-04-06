@@ -88,7 +88,7 @@ export const Hero = () => {
         <div className="flex flex-wrap gap-4">
           <a
             href="#portfolio"
-            className="px-8 py-4 bg-cyber-green text-black font-bold uppercase tracking-widest text-sm hover:bg-cyber-blue transition-all cyber-border"
+            className="px-8 py-4 bg-cyber-green text-white font-bold uppercase tracking-widest text-sm hover:bg-cyber-blue transition-all cyber-border"
           >
             Explore Projects
           </a>
